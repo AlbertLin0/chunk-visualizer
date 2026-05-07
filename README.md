@@ -2,7 +2,7 @@
 
 This project provides a playground for visual comparison of different text chunking algorithms.
 
-<img width="1512" height="823" alt="image" src="https://github.com/user-attachments/assets/543df1dc-e213-41d1-8c26-3b6443fb217b" />
+<img width="1452" height="819" alt="image" src="https://github.com/user-attachments/assets/fc86f62e-b2ea-415e-9c96-e40d3cdc4841" />
 
 ## Libraries
 
