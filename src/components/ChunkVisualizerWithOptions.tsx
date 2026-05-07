@@ -37,6 +37,7 @@ interface ChunkVisualizerWithOptionsProps {
   onTooltipMouseLeave?: () => void;
 }
 
+
 export function ChunkVisualizerWithOptions({
   text,
   splitterId,
@@ -611,6 +612,8 @@ export function ChunkVisualizerWithOptions({
             showTokens={showTokens}
           />
         </div>
+        
+        
       </div>
     </div>
   );
